@@ -1,0 +1,26 @@
+h1{
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border: 8px;
+    border-color: black;
+}
+
+body{
+    background-color: wheat;
+
+}
+
+button{
+    color: aliceblue;
+    background-color: black;
+    border-color: lightgray;
+    border-radius: 6px;
+    border-width: 3px;
+    height: 50px;
+    width: 50;
+    transform: translate(0px, 0px);
+}
+
+#usernameOut{
+    transform: translate(115px, -46px);
+}
